@@ -34,9 +34,9 @@
 
 12:00-13:00 -- LUNCH --
 
-13:00-15:00 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop continued)
+13:00-14:00 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop continued)
 
-15:05-16:00 [Build a stopwatch](https://github.com/oliverjam/intro-react-workshop/blob/master/workshop-top-notch-stopwatch) (mini project)
+14:05-16:00 [Build a stopwatch](https://github.com/oliverjam/intro-react-workshop/blob/master/workshop-top-notch-stopwatch) (mini project)
 
 ### Day 2
 
