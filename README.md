@@ -24,42 +24,64 @@
 
 ### Day 1
 
-10:00-11:00 [Intro to ES6 Classes](https://github.com/oliverjam/es6-class-intro)  
-11:00-11:30 [Modern frontend & how React fits in](https://hackmd.io/p/SJauYz6EM#) (talk/discussion)  
-11:30-13:00 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop)  
-_13:00-14:00 Lunch_  
-14:00-15:00 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop continued)  
-15:00-16:00 [Build a stopwatch](https://github.com/oliverjam/intro-react-workshop/blob/master/workshop-top-notch-stopwatch) (mini project)  
+08:30-09:00 Introduction to React Week and learning outcomes.
+
+09:00-10:00 [Intro to ES6 Classes](https://github.com/oliverjam/es6-class-intro)
+
+10:05-10:30 [Modern frontend & how React fits in](https://hackmd.io/p/SJauYz6EM#) (talk/discussion)
+
+10:30-12:00 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop)
+
+12:00-13:00 -- LUNCH --
+
+13:00-14:00 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop continued)
+
+14:05-16:00 [Build a stopwatch](https://github.com/oliverjam/intro-react-workshop/blob/master/workshop-top-notch-stopwatch) (mini project)
 
 ### Day 2
 
-10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring)  
-11:00-11:30 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)  
-11:30-13:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)  
-_13:30-14:30 Lunch_  
-14:30-16:30 [Testing React components](https://github.com/oliverjam/learn-react-testing)  
-16:30-17:30 [Project set-up](https://github.com/oliverjam/fac-react-project)  
-17:30-18:00 Project planning  
+08:30-09:45 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring)
+
+09:45-10:05 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)
+
+10.10-12:00 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)
+
+12:00-13:00 -- LUNCH --
+
+13:00-15:00 [Testing React components](https://github.com/oliverjam/learn-react-testing)
+
+15:05-16:00 [Project set-up](https://github.com/oliverjam/fac-react-project)
 
 ### Day 3
 
-10:00-11:00 [`this` workshop](https://github.com/ZooeyMiller/ws-what-is-this)  
-11:00-13:00 Projects  
-_13:00-14:00 Lunch_  
-14:00-17:00 Projects  
-17:00-18:00 Talk  
+08:30-09:45 [`this` workshop](https://github.com/ZooeyMiller/ws-what-is-this)
 
+09:50-10:50 Project planning
+
+10:50-12:00 Projects
+
+12:00-13:00 -- LUNCH --
+
+13:00-16:00 Projects
 
 ### Day 4
 
-10:00-13:00 Projects  
-_13:00-14:00 Lunch_  
-14:00-16:00 Projects  
+08:30-12:00 Projects
+
+12:00-13:00 -- LUNCH --
+
+13:00-16:00 Projects
 
 ### Day 5
-10:00-11:00 Code review  
-11:00-13:00 Fixing issues/planning presentations  
-_13:00-14:00 Lunch_  
-14:00-16:00 Present projects  
-16:00-17:00 Stop-go-continue  
-17:00 Pub  
+
+08:30-09:45 Code review
+
+09:45-11:00 Fixing issues
+
+11:05-12:00 Planning presentations
+
+12:00-13:00 -- LUNCH --
+
+13:00-14:00 Present projects
+
+14:00-15:00 Discussion on second project
