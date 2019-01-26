@@ -28,7 +28,7 @@
 
 09:00-10:00 [Intro to ES6 Classes](https://github.com/oliverjam/es6-class-intro)
 
-10:05-10:30 [Modern frontend & how React fits in](https://hackmd.io/p/SJauYz6EM#) (talk/discussion)
+10:05-10:30 [Modern frontend & how React fits in](https://hackmd.io/p/ByCFXmrZN#/) (talk/discussion)
 
 10:30-12:00 [React API](https://github.com/oliverjam/intro-react-workshop) (workshop)
 
