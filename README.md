@@ -24,7 +24,7 @@
 
 ### Day 1
 
-08:30-09:00 Introduction to React Week and learning outcomes.
+08:30-09:00 [Introduction to React Week and learning outcomes](https://docs.google.com/presentation/d/1nGmh6UAPqhsYRzBx0mRHF3UFGL4e1tO2cJXAkQlgQrQ/edit?usp=sharing)
 
 09:00-10:00 [Intro to ES6 Classes](https://github.com/oliverjam/es6-class-intro)
 
