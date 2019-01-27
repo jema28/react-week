@@ -50,11 +50,16 @@
 
 13:00-15:00 [Testing React components](https://github.com/oliverjam/learn-react-testing)
 
-15:05-16:00 [Project set-up](https://github.com/oliverjam/fac-react-project)
+15:00-15:15 [React project introduction](https://github.com/oliverjam/fac-react-project)
+
+15:15-16:00 [Project Setup](https://github.com/oliverjam/minimal-react-setup)
+
 
 ### Day 3
 
 08:30-09:45 [`this` workshop](https://github.com/ZooeyMiller/ws-what-is-this)
+
+09:45-10:05 - Thinking in React
 
 09:50-10:50 Project planning
 
