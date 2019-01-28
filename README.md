@@ -50,7 +50,7 @@
 
 13:00-15:00 [Testing React components](https://github.com/oliverjam/learn-react-testing)
 
-15:00-15:15 [React project introduction](https://github.com/oliverjam/fac-react-project)
+15:00-15:15 [React project](https://github.com/jema28/fac-react-project)
 
 15:15-16:00 [Project Setup](https://github.com/oliverjam/minimal-react-setup)
 
