@@ -42,7 +42,7 @@
 
 08:30-09:45 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring)
 
-09:45-10:05 [Intro to bundlers](https://hackmd.io/p/rJBLi5mSf) (talk)
+09:45-10:05 [Intro to bundlers](https://docs.google.com/presentation/d/1BMSOwd4vC0R672EAdIRx0E1lS0_2wMh7Luwy3FHJUds/edit?usp=sharing) (talk)
 
 10.10-12:00 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)
 
