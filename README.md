@@ -59,7 +59,7 @@
 
 08:30-09:45 [`this` workshop](https://github.com/ZooeyMiller/ws-what-is-this)
 
-09:50-10:50 - Thinking in React and React File Structure
+09:50-10:50 - [Thinking in React and React File Structure](https://docs.google.com/presentation/d/1WTcB3_U6uYRymXmg9Nx4mSUWQBXiP5XciJHu6p1SXN4/edit?usp=sharing)
 
 10:50-12:00 Project planning
 
