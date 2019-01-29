@@ -59,11 +59,9 @@
 
 08:30-09:45 [`this` workshop](https://github.com/ZooeyMiller/ws-what-is-this)
 
-09:45-10:05 - Thinking in React
+09:50-10:50 - Thinking in React and React File Structure
 
-09:50-10:50 Project planning
-
-10:50-12:00 Projects
+10:50-12:00 Project planning
 
 12:00-13:00 -- LUNCH --
 
