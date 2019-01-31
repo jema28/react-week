@@ -77,11 +77,9 @@
 
 ### Day 5
 
-08:30-09:45 Code review
+08:30-11:00 Work on projects / fix issues
 
-09:45-11:00 Fixing issues
-
-11:05-12:00 Planning presentations
+11:00-12:00 Plan presentations
 
 12:00-13:00 -- LUNCH --
 
